@@ -8,3 +8,15 @@ D:\super\supermercado\obj\Debug\supermercado.csproj.GenerateResource.cache
 D:\super\supermercado\obj\Debug\supermercado.csproj.CoreCompileInputs.cache
 D:\super\supermercado\obj\Debug\supermercado.exe
 D:\super\supermercado\obj\Debug\supermercado.pdb
+D:\UAI\super\super\supermercado\bin\Debug\supermercado.exe.config
+D:\UAI\super\super\supermercado\bin\Debug\supermercado.exe
+D:\UAI\super\super\supermercado\bin\Debug\supermercado.pdb
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.csproj.AssemblyReference.cache
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.csproj.SuggestedBindingRedirects.cache
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.formLogin.resources
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.Properties.Resources.resources
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.csproj.GenerateResource.cache
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.csproj.CoreCompileInputs.cache
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.exe
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.pdb
+D:\UAI\super\super\supermercado\obj\Debug\supermercado.Form2.resources
