@@ -23,7 +23,13 @@ namespace supermercado
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            using (SqlConnection cn =new SqlConnection(connexion))
+            if(txtUser.Text == "" ||  txtPassword.Text=="")
+            {
+                MessageBox.Show("completar los datos","error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
+            else
+            {
+                using (SqlConnection cn =new SqlConnection(connexion))
             {
                 SqlCommand cmd = new SqlCommand("insert into Login2(usuarios,Contraseña) values('"+txtUser.Text+"','"+txtPassword.Text +"')",cn);
                 cmd.CommandType = CommandType.Text;
@@ -33,6 +39,9 @@ namespace supermercado
                 cmd.ExecuteNonQuery();//ejecutar la linea de codigo para llenar 
 
             }
+
+            }
+            
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
